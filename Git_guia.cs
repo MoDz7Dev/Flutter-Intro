@@ -19,7 +19,7 @@ $ cd 01-dart.intro/
 
 //modz7@DESKTOP-DIFKDFO MINGW64 /e/Codigo/Flutter/01-dart.intro
 $ git init
-Initialized empty Git repository in E:/Codigo/Flutter/01-dart.intro/.
+Initialized empty Git repository in E:/Codigo/.
 git/
 
 //modz7@DESKTOP-DIFKDFO MINGW64 /e/Codigo/Flutter/01-dart.intro (master)
@@ -302,4 +302,4 @@ Your branch is up to date with 'origin/master'.
 $ ^C
 
 //modz7@DESKTOP-DIFKDFO MINGW64 /e/Codigo/Flutter/01-dart.intro (master)
-$
+$ 
